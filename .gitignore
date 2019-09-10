@@ -1,0 +1,17 @@
+*.exe
+*.log
+
+vendor/
+files/
+
+*.out
+*.swp
+*.lock
+
+.idea/
+logs/
+keys/
+*-linux-amd64
+test/
+debug/
+client/
